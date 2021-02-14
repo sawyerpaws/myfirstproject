@@ -1,1 +1,55 @@
 
+body{
+  background-color: lavender;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*<style>
+        body{font-family:monospace italic;
+            background-color:light-grey;
+            height:100%;
+        }
+        #welcome{color:orange;
+                 font-weight:bold;
+                 text-align:center;
+                 margin:10px;
+                 padding:4px;
+                 border:20px;
+                 font-family:cursive;
+        }
+        #contact-info{font-family:monospace bold 2em;
+                      text-align:center;
+        }
+        .item-descriptions{background-color:light-grey;
+                           text-align:center;
+                           font-family:monospace;
+                           border:2px;
+                           padding:3px;
+                           margin:1px;
+        }
+        .list-color{background-color:grey;
+                    font-family:"Helvetica",sans-serif;
+          
+        }
+        ul{text-align:center;
+            font-family:monospace italic;
+        }
+        
+        
+    </style>*/
